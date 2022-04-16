@@ -1,4 +1,5 @@
 // Server side C/C++ program to demonstrate Socket programming
+// I've handled the errors and have inserted the print staretements to understand the flow of program
 
 #include <unistd.h>
 #include <stdio.h>
